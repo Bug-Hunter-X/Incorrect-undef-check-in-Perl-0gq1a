@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an incorrect way to check for undefined values and its corrected version.  The script highlights a common mistake in Perl programming regarding the undef value and how to properly handle it using the defined() function.
